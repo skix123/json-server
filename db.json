@@ -1,0 +1,67 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"slug": "product1",
+			"title": "Product #1",
+			"photo": "/assets/product.jpg",
+			"description": "Lorem ipsum dolor sit amet enim. Etiam ullamcorper. Suspendisse a pellentesque dui, non felis. Maecenas malesuada elit lectus felis, malesuada ultricies. Curabitur et ligula. Ut molestie a, ultricies porta urna. Vestibulum commodo volutpat a, convallis ac, laoreet enim. Phasellus fermentum in, dolor. Pellentesque facilisis. Nulla imperdiet sit amet magna. Vestibulum dapibus, mauris nec malesuada fames ac turpis velit, rhoncus eu, luctus et interdum adipiscing wisi. Aliquam erat ac ipsum. Integer aliquam purus.",
+			"excerpt": "Lorem ipsum dolor sit amet enim. Etiam ullamcorper...",
+			"price": 100
+		},
+		{
+			"id": 2,
+			"slug": "product2",
+			"title": "Product #2",
+			"photo": "/assets/product.jpg",
+			"description": "Lorem ipsum dolor sit amet enim. Etiam ullamcorper. Suspendisse a pellentesque dui, non felis. Maecenas malesuada elit lectus felis, malesuada ultricies. Curabitur et ligula. Ut molestie a, ultricies porta urna. Vestibulum commodo volutpat a, convallis ac, laoreet enim. Phasellus fermentum in, dolor. Pellentesque facilisis. Nulla imperdiet sit amet magna. Vestibulum dapibus, mauris nec malesuada fames ac turpis velit, rhoncus eu, luctus et interdum adipiscing wisi. Aliquam erat ac ipsum. Integer aliquam purus.",
+			"excerpt": "Curabitur et ligula. Ut molestie a, ultricies porta...",
+			"price": 200
+		},
+		{
+			"id": 3,
+			"slug": "product3",
+			"title": "Product #3",
+			"photo": "/assets/product.jpg",
+			"description": "Lorem ipsum dolor sit amet enim. Etiam ullamcorper. Suspendisse a pellentesque dui, non felis. Maecenas malesuada elit lectus felis, malesuada ultricies. Curabitur et ligula. Ut molestie a, ultricies porta urna. Vestibulum commodo volutpat a, convallis ac, laoreet enim. Phasellus fermentum in, dolor. Pellentesque facilisis. Nulla imperdiet sit amet magna. Vestibulum dapibus, mauris nec malesuada fames ac turpis velit, rhoncus eu, luctus et interdum adipiscing wisi. Aliquam erat ac ipsum. Integer aliquam purus.",
+			"excerpt": "Pellentesque facilisis. Nulla imperdiet sit amet magna...",
+			"price": 300
+		},
+		{
+			"id": 4,
+			"slug": "product4",
+			"title": "Product #4",
+			"photo": "/assets/product.jpg",
+			"description": "Lorem ipsum dolor sit amet enim. Etiam ullamcorper. Suspendisse a pellentesque dui, non felis. Maecenas malesuada elit lectus felis, malesuada ultricies. Curabitur et ligula. Ut molestie a, ultricies porta urna. Vestibulum commodo volutpat a, convallis ac, laoreet enim. Phasellus fermentum in, dolor. Pellentesque facilisis. Nulla imperdiet sit amet magna. Vestibulum dapibus, mauris nec malesuada fames ac turpis velit, rhoncus eu, luctus et interdum adipiscing wisi. Aliquam erat ac ipsum. Integer aliquam purus.",
+			"excerpt": "Estibulum dapibus, mauris nec malesuada fames...",
+			"price": 400
+		},
+		{
+			"id": 5,
+			"slug": "product5",
+			"title": "Product #5",
+			"photo": "/assets/product.jpg",
+			"description": "Lorem ipsum dolor sit amet enim. Etiam ullamcorper. Suspendisse a pellentesque dui, non felis. Maecenas malesuada elit lectus felis, malesuada ultricies. Curabitur et ligula. Ut molestie a, ultricies porta urna. Vestibulum commodo volutpat a, convallis ac, laoreet enim. Phasellus fermentum in, dolor. Pellentesque facilisis. Nulla imperdiet sit amet magna. Vestibulum dapibus, mauris nec malesuada fames ac turpis velit, rhoncus eu, luctus et interdum adipiscing wisi. Aliquam erat ac ipsum. Integer aliquam purus.",
+			"excerpt": "Aliquam erat ac ipsum. Integer aliquam purus...",
+			"price": 500
+		},
+		{
+			"id": 6,
+			"slug": "product6",
+			"title": "Product #6",
+			"photo": "/assets/product.jpg",
+			"description": "Lorem ipsum dolor sit amet enim. Etiam ullamcorper. Suspendisse a pellentesque dui, non felis. Maecenas malesuada elit lectus felis, malesuada ultricies. Curabitur et ligula. Ut molestie a, ultricies porta urna. Vestibulum commodo volutpat a, convallis ac, laoreet enim. Phasellus fermentum in, dolor. Pellentesque facilisis. Nulla imperdiet sit amet magna. Vestibulum dapibus, mauris nec malesuada fames ac turpis velit, rhoncus eu, luctus et interdum adipiscing wisi. Aliquam erat ac ipsum. Integer aliquam purus.",
+			"excerpt": "Lorem ipsum dolor sit amet enim. Etiam ullamcorper...",
+			"price": 600
+		},
+		{
+			"id": 7,
+			"slug": "product7",
+			"title": "Product #7",
+			"photo": "/assets/product.jpg",
+			"description": "Lorem ipsum dolor sit amet enim. Etiam ullamcorper. Suspendisse a pellentesque dui, non felis. Maecenas malesuada elit lectus felis, malesuada ultricies. Curabitur et ligula. Ut molestie a, ultricies porta urna. Vestibulum commodo volutpat a, convallis ac, laoreet enim. Phasellus fermentum in, dolor. Pellentesque facilisis. Nulla imperdiet sit amet magna. Vestibulum dapibus, mauris nec malesuada fames ac turpis velit, rhoncus eu, luctus et interdum adipiscing wisi. Aliquam erat ac ipsum. Integer aliquam purus.",
+			"excerpt": "Curabitur et ligula. Ut molestie a, ultricies...",
+			"price": 700
+		}
+	]
+}
